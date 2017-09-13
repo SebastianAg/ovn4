@@ -1,1 +1,3 @@
-Detta är ett textdokument
+Detta Šr ett textdokument
+
+det hŠr Šr chumu's fšrsta commit
